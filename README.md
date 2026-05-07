@@ -1,4 +1,4 @@
-# Chat-LLM v1.0
+# Chat-LLM
 
 > **A tool that lets you input your API Key and chat with LLMs.**  
 > 一个简洁高效的在线大模型对话工具，支持 DeepSeek 全系列模型，纯前端实现，无需后端部署。
