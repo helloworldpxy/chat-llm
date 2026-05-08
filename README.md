@@ -45,8 +45,6 @@
 
 ## 🖼️ 界面预览
 
-> 以下为 v1.0 版本截图（v1.1 界面结构相似，设置面板全新升级）
-
 ![Chat-LLM 界面截图1](<img width="2526" height="1186" alt="图片" src="https://github.com/user-attachments/assets/e5d70c9a-6569-4578-ab84-f7eeef272290" />
 )
 ![Chat-LLM 界面截图2](<img width="2526" height="1186" alt="图片" src="https://github.com/user-attachments/assets/912f179c-57c7-498b-ae8b-65486f499041" />
